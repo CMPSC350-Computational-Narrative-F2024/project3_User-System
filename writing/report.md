@@ -1,14 +1,5 @@
 ## Name: TODO
 
-# System
-
-TODO:
-
-- Overview: what does it do?
-- User Group: how are the users and what are their needs
-- Features: what functionality does your system provide
-- Use Cases: 2-3 examples of scenarios of users utilizing your system
-
 # Prompt journal
 
 Record the various prompts sent to API with some notes about how well they did or didn't work. You must use at least one `few-shot` or `chain of thought` prompt.

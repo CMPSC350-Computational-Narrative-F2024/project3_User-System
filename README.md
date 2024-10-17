@@ -15,6 +15,9 @@ In this project, you will create a system using models available through the Oll
 
 Additionally, you will conduct an experimentation component, where you evaluate and compare at least three different models. Your final report should document these experiments, analyze model performance, and explain your choice for the best model to use in your system.
 
+Walkthrough will require you to explain your initial process to the instructor. By this point, you should have:
+- identified your user group, user needs and requirements
+
 ## Learning
 
 * [Methods of Prompt Programming](https://www.promptingguide.ai/techniques)
@@ -40,7 +43,7 @@ This assignment also contributes to the `Modes of Expression` distribution learn
 ## Baseline Requirements
 
 * **User-Centered Design**: Clearly identify your system's user group and describe how your system addresses their specific needs. Explain your design decisions based on user requirements.
-* **Programming Language**: The system must be written in Python and use API calls to interact with models available through the Ollama API.
+* **Technical Requirement**: The system must be written in Python and use API calls to interact with models available through the Ollama API.
 * **Prompting Techniques**: Employ advanced prompting methods, such as few-shot learning or chain of thought reasoning, to refine system output and address user tasks effectively.
 * **Experimentation and Model Evaluation**: Experiment with at least three different models to assess their suitability for your system's tasks. Use relevant metrics (e.g., accuracy, coherence, relevance) to compare model performance, and include any ethical considerations or biases encountered.
 * **System Documentation**: Provide a detailed report summarizing your experimentation, findings, and final model choice. Ensure the project includes a README file that outlines the system's functionality, user group,  installation instructions, and use examples.
