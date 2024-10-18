@@ -49,7 +49,7 @@ This assignment also contributes to the `Modes of Expression` distribution learn
 ## Baseline Requirements
 
 * **User-Centered Design**: Clearly identify your system's user group and describe how your system addresses their specific needs. Explain your design decisions based on user requirements.
-* **Technical Requirement**: The system must be written in Python and use API calls to interact with models available through the Ollama API.
+* **Technical Requirement**: The system must be written in Python and use API calls to interact with models available through the Ollama API or through local installation.
 * **Prompting Techniques**: Employ advanced prompting methods, such as few-shot learning or chain of thought reasoning, to refine system output and address user tasks effectively.
 * **Experimentation and Model Evaluation**: Experiment with at least three different models to assess their suitability for your system's tasks. Use relevant metrics (e.g., accuracy, coherence, relevance) to compare model performance, and include any ethical considerations or biases encountered.
 * **System Documentation**: Provide a detailed report summarizing your experimentation, findings, and final model choice. Ensure the project includes a README file that outlines the system's functionality, user group,  installation instructions, and use examples.
