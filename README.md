@@ -15,8 +15,14 @@ In this project, you will create a system using models available through the Oll
 
 Additionally, you will conduct an experimentation component, where you evaluate and compare at least three different models. Your final report should document these experiments, analyze model performance, and explain your choice for the best model to use in your system.
 
-Walkthrough will require you to explain your initial process to the instructor. By this point, you should have:
+**Walkthrough** will require you to explain your initial process to the instructor. Before the walkthrough, you should have:
 - identified your user group, user needs and requirements
+- decided which model to try first
+- made progress in the implementation (have at least a simple prompt working)
+
+**Usability Feedback** will ask everyone to test out each other's systems as users. Before the peer feedback session, you should have:
+- experimented with prompting
+- a working system on at least one model (does not need to have all of the features) but the way user interacts with the system should be complete
 
 ## Learning
 
