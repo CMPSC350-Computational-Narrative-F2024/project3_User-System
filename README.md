@@ -6,7 +6,7 @@ Activity                   | Deadline
 -------------------------- | ------------------------------
 Regular Commits:  | October 18th-November 8th, 2024 (total: 20 commit requirement, at least 1 on October 25th and November 1st)
 Walkthrough | October 25th by 4:20pm
-Usability Feedback ([Google Form](https://forms.gle/R7wzwzshncjcyjdf9)) | November 1st, 2024 during lab
+Usability Feedback ([Google Form](https://forms.gle/NiS3ajDudNunhqQQ8)) | November 1st, 2024 during lab
 Final submission and Critique | November 8th, 2024 by 11am, critique in class and during lab if needed
 
 ## Summary
